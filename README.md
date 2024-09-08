@@ -46,31 +46,31 @@ Test the endpoint using curl
 
 ## Tests
 
-![output_0](./imgs/output_0.png)
+![output_0](./img/output_0.png)
 
 2. Images of the same product but different resolutions
 
-![output_1](./imgs/output_1.png)
+![output_1](./img/output_1.png)
 
 3. Exact same images with just two characters missing
 
-![output_2](./imgs/output_2.png)
+![output_2](./img/output_2.png)
 
 4. Same item; different resolution
 
-![output_3](./imgs/output_3.png)
+![output_3](./img/output_3.png)
 
 5. Same item; different resolution
 
-![output_4](./imgs/output_4.png)
+![output_4](./img/output_4.png)
 
 6. Different items
 
-![output_5](./imgs/output_5.png)
+![output_5](./img/output_5.png)
 
 7. Same image; original and compressed
 
-![output_6](./imgs/output_6.png)
+![output_6](./img/output_6.png)
 
 ## References
 
