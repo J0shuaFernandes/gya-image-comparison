@@ -5,9 +5,7 @@ from skimage.metrics import structural_similarity as ssim
 import numpy as np
 import cv2
 
-
 app = FastAPI()
-
 
 def register_and_compare(im1, im2):
 	imgs = [im1, im2]
@@ -86,6 +84,3 @@ async def compare_images(files: List[UploadFile] = File(...)):
 
 	except Exception as e:
 		raise HTTPException(status_code=500, detail=str(e))
-
-
-# To run the application, use: uvicorn script_name:app --reload

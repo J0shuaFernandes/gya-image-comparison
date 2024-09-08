@@ -1,0 +1,5 @@
+fastapi==0.114.0
+matplotlib==3.9.2
+numpy==1.26.3
+opencv_python==4.10.0
+skimage==0.24.0
