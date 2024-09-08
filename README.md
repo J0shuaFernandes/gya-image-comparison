@@ -34,7 +34,7 @@ Test the endpoint using curl
 
 3. Match keypoints of both images.
 
-   ![](D:\gya-image-comparasion\similarity_orignal_1.png)
+   ![](./img/keypoints.png)
 
 4. Using keypoints warp the large image over the smaller one.
 
